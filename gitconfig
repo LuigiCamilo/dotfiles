@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = luigic22@gmail.com
+	name = Luigi Di Martino
